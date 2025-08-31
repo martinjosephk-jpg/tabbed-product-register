@@ -1,7 +1,7 @@
-import { ProductRegistrationForm } from '@/components/ProductRegistrationForm';
+import { ProductMasterForm } from '@/components/ProductMasterForm';
 
 const Index = () => {
-  return <ProductRegistrationForm />;
+  return <ProductMasterForm />;
 };
 
 export default Index;
